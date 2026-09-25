@@ -1,15 +1,11 @@
-# Massalia — two-city preview
+# Massalia — this link has moved
 
-A **preview** build of Marseille's City Builder (V2), compiled from the private source repo.
-Unlike the main playtest link, this one lets you found **either city** from the start screen:
+Both cities are now played at the one playtest link:
 
-- **Massalia** — 600 BC → 0 AD, the finished city and the full authored deck.
-- **Syrakousai** — 734 BC → 190 BC, Sicily's soil, her own peoples, her own trade partners,
-  and a deck that is only just being written.
+**▶ https://dniforos8-byte.github.io/massalia-play/**
 
-Play it: **https://dniforos8-byte.github.io/massalia-two-cities/**
+This address forwards there. Any save made here is already there: to a browser, both addresses
+are the same site.
 
-Each city keeps its **own save**, so playing one never overwrites the other.
-
-⚠ This is not the playtesters' link. The stable build lives at
-https://dniforos8-byte.github.io/massalia-play/ and is unaffected by anything here.
+From 2026-08-25 until 2026-09-25 this repository served a two-city preview build. Its history
+is kept; only the forwarding page is served now.
